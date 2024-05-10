@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\bin\Debug\Party Platters2.exe.config
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\bin\Debug\Party Platters2.exe
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\bin\Debug\Party Platters2.pdb
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\bin\Debug\Party Platters2.xml
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party_Platters2.PartyPlatters.resources
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party_Platters2.Resources.resources
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.exe
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.xml
+E:\VisualBasic\Chapter 5\Party Platters2\Party Platters2\obj\Debug\Party Platters2.pdb

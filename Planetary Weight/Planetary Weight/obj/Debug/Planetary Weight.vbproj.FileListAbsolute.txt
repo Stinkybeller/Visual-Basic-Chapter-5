@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.exe.config
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.exe
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.pdb
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.xml
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary_Weight.frmPlanetaryWeight.resources
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary_Weight.Resources.resources
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.exe
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.xml
+E:\VisualBasic\Chapter 5\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.pdb
