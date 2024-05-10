@@ -1,0 +1,12 @@
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\bin\Debug\Building Plans Conversion.exe.config
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\bin\Debug\Building Plans Conversion.exe
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\bin\Debug\Building Plans Conversion.pdb
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\bin\Debug\Building Plans Conversion.xml
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building_Plans_Conversion.frmBuildingPlansConversion.resources
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building_Plans_Conversion.Resources.resources
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.exe
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.xml
+E:\VisualBasic\Chapter 5\Building Plans Conversion\Building Plans Conversion\obj\Debug\Building Plans Conversion.pdb

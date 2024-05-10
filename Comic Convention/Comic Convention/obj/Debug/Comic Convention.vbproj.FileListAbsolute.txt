@@ -1,0 +1,24 @@
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe.config
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\bin\Debug\Comic Convention.pdb
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\bin\Debug\Comic Convention.xml
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbprojAssemblyReference.cache
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.Resources.resources
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.GenerateResource.cache
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.CoreCompileInputs.cache
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.exe
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.xml
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic Convention.pdb
+C:\Users\105047\OneDrive\ShopUSB\VisualBasic\Chapter 4\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.frmComicConvention.resources
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe.config
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\bin\Debug\Comic Convention.pdb
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\bin\Debug\Comic Convention.xml
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.frmComicConvention.resources
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.Resources.resources
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.exe
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.xml
+E:\VisualBasic\Chapter 5\Comic Convention\Comic Convention\obj\Debug\Comic Convention.pdb
